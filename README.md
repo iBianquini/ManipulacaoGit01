@@ -4,7 +4,7 @@
 
 * Nome 1: 
 
-* Nome 2: 
+* Nome 2: Iago Bianquini
 
 * Nome 3: 
 
