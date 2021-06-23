@@ -8,4 +8,4 @@
 
 * Nome 3: Daniel Silva Nunes de novo
 
-* Nome 4: 
+* Nome 4: Wesley Ferreira Anazario
