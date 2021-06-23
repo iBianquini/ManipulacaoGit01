@@ -2,14 +2,14 @@
 
 ### Repositório criado no bootcamp MELI 
 
-<<<<<<< HEAD
 * Nome 1: Cleberson
-=======
-* Nome 1: Daniel Silva Nunes
->>>>>>> 82868317b4d9c546b164b844ae85301c673166be
 
-* Nome 2: Iago Bianquini
+* Nome 2: Daniel Silva Nunes
 
-* Nome 3: Daniel Silva Nunes de novo
+* Nome 3: Iago Bianquini
 
-* Nome 4: Wesley Ferreira Anazario
+* Nome 4: Daniel Silva Nunes de novo
+
+* Nome 5: Wesley Ferreira Anazario
+
+* Nome 6: Augusto Alves Silva
